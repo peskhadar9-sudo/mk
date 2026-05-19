@@ -36,3 +36,8 @@ Below is a full walk-through demo video showing transaction addition, dashboard 
 - Maxamed Naasir Cilmi
 - Khadar C/raxmaan Xasan
 - Maxamuud Cumar Daahir
+- Mohamoud Mohamed Abdi
+- Mustafe Mohamoud Ibrahim
+- Hamse Kayse Omer
+- Amiin Mohamoud Kosar 
+- Salman Saed Hussein
