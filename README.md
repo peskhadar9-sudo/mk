@@ -15,8 +15,8 @@ Below is a full walk-through demo video showing transaction addition, dashboard 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/peskhadar9-sudo/khadarmk.git
-   cd khadarmk
+   git clone https://github.com/peskhadar9-sudo/mk.git
+   cd mk
    ```
 
 2. Install dependencies:
