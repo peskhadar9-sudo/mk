@@ -41,3 +41,4 @@ Below is a full walk-through demo video showing transaction addition, dashboard 
 - Hamse Kayse Omer
 - Amiin Mohamoud Kosar 
 - Salman Saed Hussein
+- A.shakur Ahmed Ismail
